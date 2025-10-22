@@ -1,0 +1,3 @@
+Hostname: LAPTOP-UE33N1UT
+Platform: win32
+Architecture: x64
