@@ -37,9 +37,9 @@ let values = [10, 20, 30];
 for(let i = 0; i < values.length; i++){
   console.log(values[i]);
 }
+let lastLogin = '1/1/1970';
 
 console.log(welcome('Charlie', 'Munger'));
-let lastLogin = '1/1/1970';
 function welcome(first, last) {
   return `Welcome, ${first} ${last}! You last logged in on ${lastLogin}.`
 };
