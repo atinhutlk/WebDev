@@ -5,6 +5,9 @@
     "color": "Red",
     "age": 3
 }
+
+
+
 */
  
 let carArray = [];
