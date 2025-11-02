@@ -1,7 +1,7 @@
 # Reflection Journal
 
-- Student Name: 
-- Group #: 
+- Student Name: Nhut Vo Quang
+- Group #: 3
 
 ---
 
