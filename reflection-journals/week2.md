@@ -9,7 +9,7 @@
  
 - Links to Pair programming: 
   - Week 2 (Mon - Afternoon): https://github.com/atinhutlk/WebDev/tree/da6c9afc08687fba92076a6c8913a632b739cab4/week2/Mon-Afternoon
-  - Week 2 (Wed - Afternoon) : https://github.com/atinhutlk/WebDev/tree/da6c9afc08687fba92076a6c8913a632b739cab4/week2
+  - Week 2 (Wed - Afternoon) :https://github.com/atinhutlk/WebDev/tree/da6c9afc08687fba92076a6c8913a632b739cab4/week2/Wed-Afternoon
 ----
 ## Peer assessment
 
