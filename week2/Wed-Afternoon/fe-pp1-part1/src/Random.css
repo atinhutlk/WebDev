@@ -1,0 +1,15 @@
+.Random {
+  border: 2px solid #000;
+  background: #fff;
+  padding: 5px;
+  margin: 12px 0;
+
+  font-family: var(--app-font);
+  font-size: 20px;
+  line-height: 1.2
+}
+
+.Random strong {
+  font-weight: 700;
+}
+
